@@ -76,6 +76,3 @@ sales-data-analysis/
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use and modify.
